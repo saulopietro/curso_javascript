@@ -1,5 +1,5 @@
-let usuario = 'masterzinnn'
-let senha = 'swdw1107'
+
+
 
 let usuario_digitado = prompt('Digite seu usuário:')
 let senha_digitada = prompt('Digite sua senha:')
